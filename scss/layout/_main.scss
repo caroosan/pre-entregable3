@@ -1,0 +1,35 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    padding-bottom: 50px;
+    padding-top: 50px;
+    max-width: 1400px;
+
+        .container img {
+            max-width: 30%;
+            height: auto;
+    }
+        .titulos {
+            display: flex;
+            margin: 20px 0px;
+            align-items: center;
+            font-weight: bold;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            flex-direction:column;
+            padding: 30px;
+            background-color: #ddc7a2;
+    
+
+    
+            .titulos h1 {
+                background-color: #ddc7a2;
+                font-size: 2rem;
+            }
+            .titulos h2 {
+                background-color: #ddc7a2;
+                font-size: 1.5rem;
+            }
+    }
+    
+}

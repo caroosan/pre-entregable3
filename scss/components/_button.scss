@@ -1,0 +1,17 @@
+button{
+    font-size: 1.25em;
+    font-weight: bold;
+    padding: 10px 50px;
+    margin: 100px;
+    border-radius: 5px;
+    border: 2px solid rgba(0,0,0,0.3);
+    box-shadow: 2px 2px 10px rgba(0,0,0,0.5);
+    color: #090200;
+    background-color: #d3ac9d;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+button:hover{
+    background-color:#b98773;
+}
