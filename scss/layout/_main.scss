@@ -9,8 +9,9 @@
         .container img {
             max-width: 30%;
             height: auto;
-    }
-        .titulos {
+        }
+}
+.titulos {
             display: flex;
             margin: 20px 0px;
             align-items: center;
@@ -19,17 +20,15 @@
             flex-direction:column;
             padding: 30px;
             background-color: #ddc7a2;
-    
-
-    
-            .titulos h1 {
+           
+        h1 {
                 background-color: #ddc7a2;
                 font-size: 2rem;
             }
-            .titulos h2 {
+          
+        h2 {
                 background-color: #ddc7a2;
                 font-size: 1.5rem;
             }
-    }
+        }
     
-}

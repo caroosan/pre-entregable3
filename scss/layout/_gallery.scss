@@ -8,17 +8,17 @@
         position: relative;
         
   
-        .gallery-item img {
+        img {
             width: 100%;
             height: auto;
         }
-        .gallery-item a {
+        a {
             position: absolute;
             bottom: 0;
             left: 0;
             width: 100%;
             padding: 20px 20%;
-            background-color: rgba(0, 0, 0, 0.5);
+            background-color: rgba(0, 0, 0, 0.8);
             color: #eaece9;
             font-size: 14px;
             text-decoration: none;
